@@ -39,8 +39,6 @@ profiles:
     url: https://www.instagram.com/hkc2627/
   - icon: brands/github
     url: https://github.com/hkc2627
-  - icon: brands/xiaohongshu
-    url: https://xiaohongshu.com/user/profile/6033af08000000000100b5e6?xhsshare=CopyLink&appuid=61ed30f90000000010008a7f&apptime=1731821756&share_id=3662d42772b543c69648cf8a35c884f8
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
