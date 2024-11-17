@@ -31,16 +31,16 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:hkc2627@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/FranklinHu2627
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/hkc2627/
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://github.com/hkc2627
+  - icon: brands/redbook
+    url: https://www.xiaohongshu.com/user/profile/6033af08000000000100b5e6?xhsshare=CopyLink&appuid=61ed30f90000000010008a7f&apptime=1731821756&share_id=3662d42772b543c69648cf8a35c884f8
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
@@ -53,11 +53,11 @@ interests:
 
 education:
   - area: Accounting Undergraduate
-    institution: Taiyuan University of Technology
+    institution: Taiyuan University of Technology(211/双一流)
     date_start: 2020-09-01
     date_end: 2024-6-16
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      While receiving higher general education, I am familiar with familiar with accounting and supervision, financial management and other related knowledge. Received systematic scientific research training. At the same time, he has a certain knowledge reserve in the subject of public administration.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
