@@ -53,7 +53,7 @@ education:
   - area: Accounting Undergraduate
     institution: Taiyuan University of Technology(211/双一流)
     date_start: 2020-09-01
-    date_end: 2024-6-16
+    date_end: 2024-06-16
     summary: |
       While receiving higher general education, I am familiar with familiar with accounting and supervision, financial management and other related knowledge. Received systematic scientific research training. At the same time, he has a certain knowledge reserve in the subject of public administration.
     button:
