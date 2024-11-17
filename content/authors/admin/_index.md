@@ -3,7 +3,7 @@
 title: 胡康成
 
 # Name pronunciation (optional)
-name_pronunciation: Kang Cheng Hu
+name_pronunciation: Hu Kang Cheng
 
 # Full name (for SEO)
 first_name: Kang Cheng
@@ -51,36 +51,25 @@ interests:
 
 education:
   - area: Accounting Undergraduate
-    institution: Taiyuan University of Technology(211/双一流)
+    institution: Taiyuan University of Technology
     date_start: 2020-09-01
     date_end: 2024-06-16
     summary: |
       While receiving higher general education, I am familiar with familiar with accounting and supervision, financial management and other related knowledge. Received systematic scientific research training. At the same time, he has a certain knowledge reserve in the subject of public administration.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://www.tyut.edu.cn/'
+  - area: Master of Accounting
+    institution: North China Electric Power University
+    date_start: 2025-09-01
+    date_end: 2028-06-30
     summary: |
       GPA: 3.8/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - financial management
+      - Accounting Theory and Practice of Electric Power Enterprises
+      - Accounting theory and practice in big data environment
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -181,4 +170,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hu Kangcheng is an undergraduate student who graduated from Taiyuan University of Technology, a national 211 project and a double first-class university. His main major is business administration accounting. While studying, he won honors such as the school's first-class and second-class outstanding student scholarships, three good students, and outstanding Communist Youth League members. He has extensive experience in student work, strong field control skills and experience in organizing large-scale events.
